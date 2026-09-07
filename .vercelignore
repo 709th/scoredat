@@ -1,0 +1,13 @@
+/.git/
+/.vercel/
+/node_modules/
+/dist/
+/assets/
+/qa/
+/.impeccable/
+/DESIGN.md
+/PRODUCT.md
+/UI-KIT.md
+/design-qa.md
+/script.js
+/styles.css
